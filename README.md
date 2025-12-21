@@ -11,7 +11,6 @@ Interessada em Dados, Tecnologia e Inovação
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🏥 Atuação com sistemas e validação de dados na área da saúde  
 
-
 ---
 
 ### 🚀 Linguagens e Tecnologias
@@ -32,14 +31,15 @@ Interessada em Dados, Tecnologia e Inovação
 
 ### 📊 Estatísticas GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?Anajulia3=Anajulia3&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?Anajulia3=Anajulia3&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anajulia3&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anajulia3&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🔗 Onde me encontrar
-- 💼 LinkedIn: https://linkedin.com/in/anajuliacostaa
+- 💼 LinkedIn: https://linkedin.com/in/anajuliacostaa  
 - 📫 Email: costaanajulia3@gmail.com
+
 
 
