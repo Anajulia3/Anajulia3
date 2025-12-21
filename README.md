@@ -2,7 +2,7 @@
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas <br/>
-Interesse em tecnologia, sistemas e desenvolvimento de software
+Interessada em Dados, Tecnologia e Inovação
 </p>
 
 ---
