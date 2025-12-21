@@ -10,7 +10,7 @@ Interessada em Dados, Tecnologia e Inovação
 ### 👩🏾‍💻 Sobre mim
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🏥 Atuação com sistemas e validação de dados na área da saúde  
-- 🔍 Experiência com rotinas administrativas aliadas à tecnologia  
+
 
 ---
 
