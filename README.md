@@ -1,8 +1,8 @@
 <h1 align="center">Oi! Eu sou a Ana Julia 👋🏾</h1>
 
 <p align="center">
-Tecnóloga em Análise e Desenvolvimento de Sistemas <br/>
-Desenvolvedora Full-Stack • Dados, Tecnologia e Inovação
+Desenvolvedora Full-Stack • Tecnóloga em Análise e Desenvolvimento de Sistemas <br/>
+Java • Spring Boot • React • TypeScript • Aberta a novas oportunidades
 </p>
 
 <p align="center">
@@ -18,10 +18,12 @@ Desenvolvedora Full-Stack • Dados, Tecnologia e Inovação
 
 ### 👩🏾‍💻 Sobre mim
 
-- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
-- 🏥 Experiência com sistemas, validação e tratamento de dados na área da saúde
-- 💻 Desenvolvimento **Full-Stack**: Java Spring Boot no back-end, React + TypeScript no front-end
-- 📊 Foco em Análise de Dados, Automação de Processos e Tecnologia com impacto social
+Desenvolvedora Full-Stack com experiência prática em construção de APIs e serviços back-end com **Java e Spring Boot** e interfaces web com **React e TypeScript**. Antes da transição para a tecnologia, atuei 5 anos com processamento, validação e qualidade de dados na área da saúde — bagagem que me deu atenção a detalhes, integridade de dados e olhar para o impacto real dos sistemas.
+
+- 💻 Experiência em desenvolvimento Full-Stack (Java/Spring Boot + React/TypeScript)
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas — Universidade Anhembi Morumbi
+- 🏥 5 anos em processamento e qualidade de dados na área da saúde
+- 🌱 Sempre estudando boas práticas, arquitetura e novas tecnologias
 
 ---
 
@@ -29,15 +31,25 @@ Desenvolvedora Full-Stack • Dados, Tecnologia e Inovação
 
 **Back-end:** Java • Spring Boot • APIs REST
 **Front-end:** React • TypeScript
-**Dados:** Python • validação e tratamento de dados • automação
-**Ferramentas:** Git • GitHub • Postman
+**Banco de dados:** SQL • PostgreSQL
+**DevOps & Ferramentas:** Docker • Git • GitHub • Postman
+**Dados:** Python • validação e tratamento de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,python,postgres,docker,git,github,postman" />
 </p>
 
 ---
 
+### 💼 Experiência
+
+**Desenvolvedora Full-Stack (Estágio)** — OMOTOR *(jan/2026 – jul/2026)*
+Desenvolvimento de APIs e serviços back-end com Java e Spring Boot seguindo boas práticas REST, interfaces web com React e TypeScript, containerização com Docker, testes com Postman e participação em code reviews, pair programming e cerimônias ágeis.
+
+**Assistente de Processamento de Dados** — AFIP Medicina Diagnóstica *(2021 – 2026)*
+Processamento e validação de pedidos médicos das UBS de São Paulo, garantindo integridade e padronização de dados e tratando inconsistências entre cadastros, pedidos e exames.
+
+---
 
 ### 📊 Estatísticas GitHub
 
@@ -60,5 +72,5 @@ Desenvolvedora Full-Stack • Dados, Tecnologia e Inovação
 ---
 
 <p align="center">
-  <i>💡 Aberta a novas oportunidades — vamos construir algo juntos!</i>
+  <i>💡 Aberta a novas oportunidades como Desenvolvedora Full-Stack — vamos conversar!</i>
 </p>
