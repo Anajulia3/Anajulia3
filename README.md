@@ -1,8 +1,8 @@
-<h1 align="center">Oi! Eu sou a Ana Julia 👋🏾</h1>
+# Oi! Eu sou a Ana Julia 👋🏾
 
 <p align="center">
-Desenvolvedora Full-Stack • Tecnóloga em Análise e Desenvolvimento de Sistemas <br/>
-Java • Spring Boot • React • TypeScript • Aberta a novas oportunidades
+Desenvolvedora Full-Stack • Tecnóloga em Análise e Desenvolvimento de Sistemas • Graduanda em Ciência da Computação <br/>
+Java • Spring Boot • React • TypeScript
 </p>
 
 <p align="center">
@@ -18,22 +18,23 @@ Java • Spring Boot • React • TypeScript • Aberta a novas oportunidades
 
 ### 👩🏾‍💻 Sobre mim
 
-Desenvolvedora Full-Stack com experiência prática em construção de APIs e serviços back-end com **Java e Spring Boot** e interfaces web com **React e TypeScript**. Antes da transição para a tecnologia, atuei 5 anos com processamento, validação e qualidade de dados na área da saúde — bagagem que me deu atenção a detalhes, integridade de dados e olhar para o impacto real dos sistemas.
+Desenvolvedora Full-Stack com experiência prática em construção de APIs e serviços back-end com **Java e Spring Boot** e interfaces web com **React e TypeScript**. Sou tecnóloga em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação. Antes da transição para a tecnologia, atuei por 5 anos com processamento, validação e qualidade de dados na área da saúde — experiência que desenvolveu minha atenção aos detalhes, integridade de dados e compreensão do impacto dos sistemas nos processos de negócio.
 
 - 💻 Experiência em desenvolvimento Full-Stack (Java/Spring Boot + React/TypeScript)
 - 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas — Universidade Anhembi Morumbi
-- 🏥 5 anos em processamento e qualidade de dados na área da saúde
-- 🌱 Sempre estudando boas práticas, arquitetura e novas tecnologias
+- 🎓 Graduanda em Ciência da Computação — 4º semestre
+- 🏥 5 anos de experiência em processamento e qualidade de dados na área da saúde
+- 🌱 Estudando boas práticas de desenvolvimento, arquitetura de software e novas tecnologias
 
 ---
 
 ### 🚀 Stack e conhecimentos
 
-**Back-end:** Java • Spring Boot • APIs REST
-**Front-end:** React • TypeScript
-**Banco de dados:** SQL • PostgreSQL
-**DevOps & Ferramentas:** Docker • Git • GitHub • Postman
-**Dados:** Python • validação e tratamento de dados
+**Back-end:** Java • Spring Boot • APIs REST  
+**Front-end:** React • TypeScript  
+**Banco de dados:** SQL • PostgreSQL  
+**DevOps & Ferramentas:** Docker • Git • GitHub • Postman  
+**Dados:** Python • Validação e tratamento de dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,react,python,postgres,docker,git,github,postman" />
@@ -44,9 +45,11 @@ Desenvolvedora Full-Stack com experiência prática em construção de APIs e se
 ### 💼 Experiência
 
 **Desenvolvedora Full-Stack (Estágio)** — OMOTOR *(jan/2026 – jul/2026)*
-Desenvolvimento de APIs e serviços back-end com Java e Spring Boot seguindo boas práticas REST, interfaces web com React e TypeScript, containerização com Docker, testes com Postman e participação em code reviews, pair programming e cerimônias ágeis.
+
+Desenvolvimento de APIs e serviços back-end com Java e Spring Boot, seguindo boas práticas REST, e interfaces web com React e TypeScript. Atuação com containerização utilizando Docker, testes de APIs com Postman e participação em code reviews, pair programming e cerimônias ágeis.
 
 **Assistente de Processamento de Dados** — AFIP Medicina Diagnóstica *(2021 – 2026)*
+
 Processamento e validação de pedidos médicos das UBS de São Paulo, garantindo integridade e padronização de dados e tratando inconsistências entre cadastros, pedidos e exames.
 
 ---
@@ -72,5 +75,5 @@ Processamento e validação de pedidos médicos das UBS de São Paulo, garantind
 ---
 
 <p align="center">
-  <i>💡 Aberta a novas oportunidades como Desenvolvedora Full-Stack — vamos conversar!</i>
+  <i>💡 Aberta a oportunidades na área de desenvolvimento de software. Vamos conversar!</i>
 </p>
